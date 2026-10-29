@@ -1,0 +1,19 @@
+# Java / NetBeans generated output
+build/
+dist/
+**/build/
+**/dist/
+**/gfdeploy/
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans machine-specific settings
+**/nbproject/private/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
